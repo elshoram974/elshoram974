@@ -1,12 +1,11 @@
-<div>
-
+<div align="center">
   # Mohammed El Shora
 
   ### Flutter Engineer building mobile products people can rely on
 
-  <a href="https://dev.mrecode.net/"><img src="https://img.shields.io/badge/Portfolio-Explore%20my%20work-10243E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/mohammedelshora"><img src="https://img.shields.io/badge/LinkedIn-Mohammed%20El%20Shora-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:riyadm2001@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20talk-16B8AE?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mohammed" /></a>
+  <a href="https://dev.mrecode.net/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-Explore%20my%20work-10243E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mohammedelshora" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Mohammed%20El%20Shora-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:riyadm2001@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-Let's%20talk-16B8AE?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mohammed" /></a>
 </div>
 
 <br />
@@ -17,7 +16,7 @@
       <h2>About me</h2>
       <p>I’m a Flutter engineer with <b>4+ years of experience</b> building and maintaining production mobile applications for Android, iOS, and Huawei AppGallery.</p>
       <p>I care about the parts that make an app last: clear architecture, offline-first data, performance, reliable releases, and a user experience that holds up outside the happy path.</p>
-      <p><a href="https://dev.mrecode.net/"><b>See my complete portfolio →</b></a></p>
+      <p><a href="https://dev.mrecode.net/" target="_blank" rel="noopener noreferrer"><b>See my complete portfolio →</b></a></p>
     </td>
     <td width="42%" valign="top">
       <h2>At a glance</h2>
@@ -38,24 +37,24 @@
     <td width="50%" valign="top">
       <h3>📒 MRE CashBook</h3>
       <p>An offline-first cashbook for people and small businesses. Track transactions, debts, inventory, PDF reports, and private cloud backups that remain in the owner’s Drive.</p>
-      <p><a href="https://elshoram974.github.io/mre_cashbook_home/"><b>View product page →</b></a></p>
+      <p><a href="https://elshoram974.github.io/mre_cashbook_home/" target="_blank" rel="noopener noreferrer"><b>View product page →</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🧩 mre_fields</h3>
       <p>An open-source Flutter package for polished form inputs: automatic RTL/LTR text direction, phone input for 245+ countries, and in-field image paste.</p>
-      <p><a href="https://github.com/elshoram974/mre_fields"><b>View source →</b></a> · <a href="https://pub.dev/packages/mre_fields"><b>pub.dev →</b></a></p>
+      <p><a href="https://github.com/elshoram974/mre_fields" target="_blank" rel="noopener noreferrer"><b>View source →</b></a> · <a href="https://pub.dev/packages/mre_fields" target="_blank" rel="noopener noreferrer"><b>pub.dev →</b></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🏗️ Portfolio SaaS</h3>
       <p>A multi-tenant platform for creating hosted portfolios with custom domains, subscriptions, and a React-powered public experience.</p>
-      <p><a href="https://dev.mrecode.net/projects"><b>Read the case study →</b></a></p>
+      <p><a href="https://dev.mrecode.net/projects" target="_blank" rel="noopener noreferrer"><b>Read the case study →</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🤝 Production experience</h3>
       <p>Experience maintaining and extending large-scale white-label applications, resolving complex production issues, and taking releases from code review to store delivery.</p>
-      <p><a href="https://dev.mrecode.net/experience"><b>View experience →</b></a></p>
+      <p><a href="https://dev.mrecode.net/experience" target="_blank" rel="noopener noreferrer"><b>View experience →</b></a></p>
     </td>
   </tr>
 </table>
@@ -77,7 +76,7 @@
 
 <div align="center">
   <b>Have a mobile product to build or improve?</b><br /><br />
-  <a href="mailto:riyadm2001@gmail.com">Email me</a> ·
-  <a href="https://www.linkedin.com/in/mohammedelshora">LinkedIn</a> ·
-  <a href="https://dev.mrecode.net/">Portfolio</a>
+  <a href="mailto:riyadm2001@gmail.com" target="_blank" rel="noopener noreferrer">Email me</a> ·
+  <a href="https://www.linkedin.com/in/mohammedelshora" target="_blank" rel="noopener noreferrer">LinkedIn</a> ·
+  <a href="https://dev.mrecode.net/" target="_blank" rel="noopener noreferrer">Portfolio</a>
 </div>
