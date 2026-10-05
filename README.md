@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://github.com/elshoram974.png?size=180" width="132" alt="Mohammed El Shora" style="border-radius: 50%;" />
+<div>
 
   # Mohammed El Shora
 
